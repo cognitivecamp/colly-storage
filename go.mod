@@ -1,4 +1,4 @@
-module colly-storage
+module github.com/cognitivecamp/colly-storage
 
 go 1.19
 
