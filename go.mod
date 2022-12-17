@@ -1,4 +1,4 @@
-module colley-storage
+module colly-storage
 
 go 1.19
 
